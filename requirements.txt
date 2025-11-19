@@ -3,6 +3,7 @@ pandas
 python-dotenv
 crewai
 groq
+litellm
 scikit-learn
 matplotlib
 seaborn
